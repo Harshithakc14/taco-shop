@@ -3,7 +3,7 @@ A simple static restaurant website built using HTML5 and CSS3.
 This project represents a fictional taco restaurant and demonstrates basic frontend development concepts.
 -------
 
-#📖 Project Overview
+##📖 Project Overview
 The Little Taco Shop website contains multiple sections that simulate a real restaurant webpage.
 It includes:
 Home section
