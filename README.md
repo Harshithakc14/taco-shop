@@ -48,7 +48,7 @@ Basic responsive design
 
 #About Page
 
- <img src="LTS4.png" width="600">
+ <img src="LTS4.png" width="400">
 
 ------------
 🚀 How to Run Locally
